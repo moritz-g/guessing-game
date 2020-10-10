@@ -9,6 +9,6 @@ This is the **Guessing Game**.
 - The program continues until you get it right.
 
 make was run on: 
-Sa 10. Okt 18:33:24 CEST 2020
+Sa 10. Okt 18:36:41 CEST 2020
 guessinggame.sh consists of the following number of lines: 
 30
